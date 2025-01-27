@@ -36,7 +36,7 @@ export default function Footer() {
           <div>
             <h3 className="text-xl font-bold mb-4">About Us</h3>
             <p className="text-gray-300">
-              We are Chandigarh's premier catering service, dedicated to creating 
+              We are Chandigarh&apos;s premier catering service, dedicated to creating 
               unforgettable culinary experiences for all your special occasions.
             </p>
             <div className="flex gap-4 mt-6">

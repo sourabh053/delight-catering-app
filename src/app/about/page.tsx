@@ -64,7 +64,7 @@ export default function AboutPage() {
             curating dream weddings. What started as a humble venture has now
             blossomed into a trusted name in the industry, known for blending
             creativity, tradition, and meticulous attention to detail. From
-            intimate gatherings to grand celebrations, we've been part of
+            intimate gatherings to grand celebrations, we&apos;ve been part of
             countless cherished moments, turning visions into reality with love
             and dedication.
           </p>
